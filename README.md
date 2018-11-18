@@ -1,7 +1,6 @@
 # Digit Recognizer
-Repository to store our code for the Digit Recognizer project in the Machine Learning class.
-We analyze and recognize the famous MNIST data with multiple machine learning techniques.
+This repository stores our code for the Digit Recognizer project in a Machine Learning class.
+We adopt multiple machine learning techniques to analyze and recognize the famous MNIST data.
 
 Author: 
-Panitan Wongse-ammat
-Le Anh
+Panitan Wongse-ammat, Le Anh
